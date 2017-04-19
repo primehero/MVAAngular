@@ -92,7 +92,7 @@ angular.module('eventModule', [])
 		title: "London",
 		itemTitle:mainTitle.title,
 		description:" is a one day event that teaches kids how to code",
-		imgName:"London",
+		imgName:"london",
 		date:Date.parse("September 26 2015")
 	},
 
